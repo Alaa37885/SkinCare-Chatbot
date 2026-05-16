@@ -57,6 +57,12 @@ SkinCare-Chatbot/
 └── README.md
 
 ---
+## 📸 UI Preview
+
+- ![Interface](skincare_cahtbot.png)
+
+
+---
 
 ## Installation & Setup
 
