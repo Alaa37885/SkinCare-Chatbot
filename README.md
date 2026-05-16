@@ -75,7 +75,7 @@ cd SkinCare-Chatbot/chatbot
 "streamlit run app.py"
 ```
 ---
-طط
+
 ## Shortcuts 
 - /routine → Generate skincare routine
 
@@ -83,10 +83,10 @@ cd SkinCare-Chatbot/chatbot
 
 - /acne → Acne guidance
 
--/safe → Safety check
+- /safe → Safety check
 
 ---
----
+
 ## Future Improvements
 
 - User login system
@@ -99,7 +99,7 @@ cd SkinCare-Chatbot/chatbot
 
 - Cloud deployment
 ---
----
+
 
 ## Authors
 
