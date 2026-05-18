@@ -32,7 +32,7 @@ It helps users get personalized skincare advice, routines, and ingredient explan
 ---
 
 ## 📂 Project Structure
-
+```bash
 SkinCare-Chatbot/
 │
 ├── chatbot/
@@ -55,6 +55,7 @@ SkinCare-Chatbot/
 │   └── requirements.txt
 │
 └── README.md
+```
 
 ---
 ## 📸 UI Preview
